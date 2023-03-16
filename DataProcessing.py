@@ -78,3 +78,29 @@ def SequenceToMLMatrix(Sequence: list[int], Inputs: int, FillerValue: int) -> li
 
     # Step 5 : Return the matrix
     return Matrix
+
+
+def NGram(Tokens: list[str], N: int) -> list[str]:
+
+    # Too short token list or too small N value
+    if len(Tokens) < N-1 or N < 2:
+        # Return empty
+        return []
+
+    # No need to do more logic than necessary
+    if N == 2:
+        return Tokens
+
+    # N-Grams
+    NGrams = []
+
+    # The loop that takes Length and N into account
+    for i in range(len(Tokens) - (N - 2)):
+        # Slice the N-Gram we want
+        NGramSlice = Tokens[i:i+N-1]
+
+        # Append the N-Gram slice to the list
+        NGrams.append(" ".join(NGramSlice))
+
+    # Return the N-Grams
+    return NGrams
