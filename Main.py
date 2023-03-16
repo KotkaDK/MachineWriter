@@ -5,8 +5,18 @@ import DataProcessing
 import Brain
 
 
-prompt = "the cat sat on the"
-tokens = TextProcessing.Tokenize(prompt)
-N_Grams = DataProcessing.NGram(tokens, 3)
-print(tokens)
-print(N_Grams)
+_BagOfWords = BagOfWords()
+
+for N in range(2, 6):
+    DataProcessing.ProcessAllData(_BagOfWords, N)
+
+prompt = input("Enter prompt: ")
+prompt = Brain.PredictSequence(prompt, _BagOfWords, 20)
+print(prompt)
+print("=" * 128)
+
+while True:
+    prompt = input("Enter prompt: ")
+    prompt = Brain.PredictSequence(prompt, _BagOfWords, 20)
+    print(prompt)
+    print("=" * 128)

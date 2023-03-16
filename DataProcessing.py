@@ -21,7 +21,7 @@ def GetTextFiles() -> list[str]:
     return Files
 
 
-def ProcessAllData(Bag: BagOfWords):
+def ProcessAllData(Bag: BagOfWords, N):
     """
     Process all the data from the "Data" folder
     :return: All tokens from each text in the "Data" folder
@@ -33,18 +33,18 @@ def ProcessAllData(Bag: BagOfWords):
     # Step 2 : Process individual files
     for File in Files:
         Tokens = TextProcessing.ProcessText(f'./data/{File}')
-        TextProcessing.AddWordsToDictionary(Bag, Tokens)
+        TextProcessing.AddWordsToDictionary(Bag, Tokens, N)
 
 
-def SlidingWindowMatrix(Tokens: list[any]) -> list[list[any]]:
+def SlidingWindowMatrix(Tokens: list[any], WindowSize: int) -> list[list[any]]:
     """
     Creates sliding window sequences for better context
     :param Tokens: The words we want to make the sequences of
+    :param WindowSize: The size of the windows
     :return: The matrix
     """
 
     # Step 1 : Loop over the tokens
-    WindowSize = 2
     Matrix = []
     for i in range(len(Tokens) - (WindowSize - 1)):
         Matrix.append(Tokens[i:WindowSize + i])

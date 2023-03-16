@@ -1,4 +1,6 @@
 import re
+
+import DataProcessing
 from BagOfWords import BagOfWords
 
 
@@ -45,22 +47,23 @@ def ProcessText(File: str) -> list[str]:
     return Tokens
 
 
-def AddWordsToDictionary(Bag: BagOfWords, Tokens: list[str]):
+def AddWordsToDictionary(Bag: BagOfWords, Tokens: list[str], N: int):
     """
     Add words to a bag of words
     :param Bag: The bag we want to add words and post-words to
     :param Tokens: The tokens (words) we want to loop over
+    :param N: The N value we use for N-Grams
     :return: Nothing
     """
 
-    # Step 1 : Loop over all the tokens
-    for i, Word in enumerate(Tokens):
-        # Step 2 : Add the token to the bag of words
-        Bag.AddWord(Word)
+    # Step 1 : Get N-Grams
+    NGrams = DataProcessing.NGram(Tokens, N)
 
-        if i < len(Tokens) - 1:
-            # Step 3 : Get the post-word token
-            PostWord = Tokens[i + 1]
+    # Step 2 : Add N-Grams & post-words
+    for i in range(len(NGrams)):
+        # Step 2.1 : Add N-Gram
+        Bag.AddWord(NGrams[i])
 
-            # Step 4 : Add the post-word token to the bag of words
-            Bag.AddPostWord(Word, PostWord)
+        # Step 2.2 : Add post-word
+        if i+N-1 < len(Tokens):
+            Bag.AddPostWord(NGrams[i], Tokens[i+N-1])
