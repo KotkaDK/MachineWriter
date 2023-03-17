@@ -1,5 +1,4 @@
 import re
-
 import DataProcessing
 from BagOfWords import BagOfWords
 
@@ -61,9 +60,9 @@ def AddWordsToDictionary(Bag: BagOfWords, Tokens: list[str], N: int):
 
     # Step 2 : Add N-Grams & post-words
     for i in range(len(NGrams)):
-        # Step 2.1 : Add N-Gram
-        Bag.AddWord(NGrams[i])
-
-        # Step 2.2 : Add post-word
         if i+N-1 < len(Tokens):
+            # Step 2.1 : Add N-Gram
+            Bag.AddWord(NGrams[i])
+
+            # Step 2.2 : Add post-word
             Bag.AddPostWord(NGrams[i], Tokens[i+N-1])

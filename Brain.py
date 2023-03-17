@@ -22,6 +22,7 @@ def Predict(Text: str, _BagOfWords: BagOfWords) -> str:
     for NGram in NGrams:
         if len(NGram) > 0:
             LastNGrams.append(NGram[-1])
+    print(LastNGrams)
 
     # Step 4 : Get the first dictionary match
     DictionaryMatch = None
@@ -35,18 +36,14 @@ def Predict(Text: str, _BagOfWords: BagOfWords) -> str:
         return ""
 
     # Step 6 : Find the best post-word match (the most frequent post-word)
-    PostWordMatch = None
-    if _BagOfWords.BoW[DictionaryMatch]:
-        PostWordMatch = max(_BagOfWords.BoW[DictionaryMatch].items(), key=lambda x: x[1])
-    else:
-        return ""
+    PostWordMatch = _BagOfWords.GetMostProbablePostWord(DictionaryMatch)
 
     # Step 7 : Return the best post-word match
-    return PostWordMatch[0]
+    return PostWordMatch
 
 
 def PredictSequence(Text: str, _BagOfWords: BagOfWords, Count: int) -> str:
-    NewText = Text
+    NewText = " ".join(TextProcessing.Tokenize(Text))
 
     for i in range(Count):
         Word = Predict(NewText, _BagOfWords)

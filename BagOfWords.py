@@ -1,3 +1,4 @@
+import random
 
 
 class BagOfWords:
@@ -17,20 +18,6 @@ class BagOfWords:
         if Word not in self.BoW:
             # Step 2 : Add the word with empty post-word list
             self.BoW[Word] = dict()
-
-    # == == == == == == == == == == == == == == == == == == == == == #
-
-    def RemoveWord(self, Word: str):
-        """
-        Remove a word from the bag of words
-        :param Word: the word we want to remove
-        :return: Nothing
-        """
-
-        # Step 1 : Check if the word exists
-        if Word in self.BoW:
-            # Step 2 : Delete it
-            del self.BoW[Word]
 
     # == == == == == == == == == == == == == == == == == == == == == #
 
@@ -62,29 +49,12 @@ class BagOfWords:
 
     # == == == == == == == == == == == == == == == == == == == == == #
 
-    def GetPostWords(self, Key: str) -> list[str]:
-        """
-        Returns all the post-words associated with a specific word
-        :param Key: The word we want the post-words from
-        :return: post-words
-        """
+    def GetMostProbablePostWord(self, Key: str):
 
-        # Step 1 : Check if word exists
-        if Key in self.BoW:
-            # Step 2 : Return post-words
+        # Step 1 : Check entry type
+        if isinstance(self.BoW[Key], list):
+            # Return a random item from the list
+            return self.BoW[Key][0]
+        else:
+            # Return the single item
             return self.BoW[Key]
-
-    # == == == == == == == == == == == == == == == == == == == == == #
-
-    def RemovePostWord(self, Key: str, Word: str):
-        """
-        Removes a post-word from a word
-        :param Key: The word we want to remove the post-word from
-        :param Word: The post-word we want to remove
-        :return: Nothing
-        """
-
-        # Step 1 : Check if the key and post-word exists
-        if Key in self.BoW and Word in self.BoW[Key]:
-            # Step 2 : Remove the post-word
-            del self.BoW[Key][Word]

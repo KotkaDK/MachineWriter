@@ -104,3 +104,22 @@ def NGram(Tokens: list[str], N: int) -> list[str]:
 
     # Return the N-Grams
     return NGrams
+
+
+def CleanBag(Bag: BagOfWords):
+    # Step 1 : Loop over all keys in the dictionary
+    for Entry in Bag.BoW:
+
+        # Step 2 : Find the highest value in the post-word dictionary
+        HighestValue = max(Bag.BoW[Entry].values())
+
+        # Step 3 : Remove all post-words that are less than the highest value
+        Bag.BoW[Entry] = {E: V for E, V in Bag.BoW[Entry].items() if V == HighestValue}
+
+        # Step 4 : Check for the length of each post-word dictionary
+        if len(Bag.BoW[Entry].items()) == 1:
+            # Convert dictionary to string
+            Bag.BoW[Entry] = list(Bag.BoW[Entry].keys())
+        else:
+            # Convert dictionary to string based on the first key
+            Bag.BoW[Entry] = list(Bag.BoW[Entry].keys())[0]
