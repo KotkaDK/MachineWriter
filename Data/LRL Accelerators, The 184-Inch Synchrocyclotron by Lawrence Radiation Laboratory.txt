@@ -1,0 +1,560 @@
+lrl accelerators
+the 184inch synchrocyclotron
+lawrence radiation laboratory
+university of california berkeley california
+pub no 2d
+5m
+june 1964
+illustration synchrocyclotron building
+contents
+                                                                    page
+the 184inch synchrocyclotron                                          2
+principle of operation of a conventional cyclotron                     3
+the principle of phase stability                                       6
+design and construction of the 184inch synchrocyclotron               8
+  magnet                                                               8
+  vacuum system                                                        9
+  ion source                                                          10
+  radiofrequency system                                               10
+  internal targets and beam extractor                                 12
+cyclotron experiments                                                 15
+  nuclear physics                                                     15
+  biophysics                                                          18
+  nuclear chemistry                                                   19
+bibliography                                                          20
+appendix                                                              21
+the 184inch synchrocyclotron
+his success with the 60inch cyclotron in 1939 led dr e o lawrence to
+propose a much more powerful accelerator one which could produce new
+types of nuclear rearrangements and even create particles grants
+totaling 1225000 permitted work to start on the 184inch cyclotron in
+august 19401 it was designed to accelerate atomic particles to an
+energy of 100 million electron volts mev five times that possible
+with the 60inch machine
+illustration fig 1 the electromagnet under construction during the
+period 1940 to 1942
+before the new cyclotron could be finished world war ii began
+construction on the cyclotron was therefore halted however because of
+interest in separating the isotopes of uranium by the electromagnetic
+method work on the giant magnet continued at an even faster pace this
+magnet would contain 3700 tons of steel in its yoke and pole pieces and
+300 tons of copper in its exciting coils fig 1 by may 1942 the
+magnet was completed during that summer it was used in a pilot plant to
+separate the first significant amounts of u235 ever obtained the
+184inch magnet remained in use in a research and development program at
+berkeley until the end of the war supplying information to oak ridge
+tennessee where a large separation plant had been erected
+construction on the rest of the cyclotron was resumed in 1945 by that
+time a new principle had been discovered which made it possible to
+obtain ion beams of much higher energy than originally hoped for yet a
+considerably lower accelerating voltage could be used this important
+discovery was made independently by dr v veksler in russia and by
+dr edwin m mcmillan present director of the lawrence radiation
+laboratory before attempting to discuss this principle we should first
+review the operation of a conventional cyclotron
+principle of operation of a conventional cyclotron
+illustration fig 2 basic parts of a cyclotron
+the main parts of a cyclotron are represented in fig 2 charged
+particles ions are accelerated inside an evacuated tank this is to
+prevent the beam from colliding with air molecules and being scattered
+the vacuum tank is placed between the poles of an electromagnet whose
+field bends the ion beam into a circular orbit
+the operation begins when the ions are introduced into the region
+between two accelerating electrodes or dees2 because the ions
+carry a positive electric charge they are attracted toward that dee
+which is electrically negative at the moment were it not for the
+magnetic field the ions would be accelerated in a straight line
+instead they are deflected into a circular path back toward the dee gap
+by the time the ions again reach the dee gap the sign of the electric
+potential on the dees is reversed so that now the ions are attracted
+toward the opposite dee
+as this process of alternating the electric potential is repeated the
+ions gain speed and energy with each revolution this causes them to
+spiral outward finally they strike a target inserted into their path or
+are extracted from the cyclotron for use as an external beam
+the time required for an ion to complete one loop remains constant as it
+spirals outward this is because its velocity increases sufficiently to
+make up for the increased distance it travels during each turn this
+means that the electric potential applied to the dees must alternate at
+a constant frequency called the resonant frequency
+the resonant frequency f is given by the relationship
+            he
+    f                                         1
+         2pimc
+where h e pi c and m are constants h is the strength of the
+magnetic field of the cyclotron e is the electric charge carried by the
+ion pi equals 314 c is a conversion factor and m is the mass of
+the ion for example the resonant frequency for protons accelerated in
+a 15000gauss magnetic field is 237 megacycles mc3 we call such a
+rapidly alternating potential a radiofrequency voltage and the
+electronic circuit for producing it a radiofrequency oscillator
+the energy e of an ion emerging from the cyclotron is given by
+        h2 r2   e2
+    e                                       2
+           2     mc2
+where h e and m are as defined above and r is the radius at which the
+beam is extracted from this equation we see that for a given type of
+ion where e and m are constant the energy depends on the diameter and
+strength of the magnet but not directly upon the voltage applied to the
+dees
+the number of revolutions that an ion can make in a conventional
+cyclotron is limited to about 70 to 100 this is due to a very curious
+effect as an ion is accelerated its mass increases this phenomenon
+is explained by einsteins special theory of relativity see fig 3
+referring back to eq 1 we see that if the ion mass m does not
+remain constant but rather increases then the resonant frequency f
+decreases but since the dee potential continues alternating at a
+constant frequency an ion soon begins to arrive late at the dee gap
+by the time it has made about 70 to 100 turns an ion is so badly out of
+phase that it is no longer accelerated
+suppose now that we want to obtain an energy of 10 mev because an ion
+can make a maximum of about 100 turns the accelerating potential would
+have to be about 100000 volts however professor lawrence hoped to
+reach 100 mev with the new 184inch cyclotron this meant that the
+accelerating voltage would have to be about 1000000 volts preventing
+such a high voltage from sparking promised to be one of many formidable
+engineering problems
+illustration fig 3 graph showing how the mass of an object increases
+as its velocity approaches that of light
+footnotes
+1 the grants were as follows rockefeller foundation1150000 john
+and mary markle foundation25000 the research corporation50000
+the university of california added a guarantee of 175000 to bring the
+total building fund to 1400000
+2 in the first cyclotrons the electrodes were shaped like the letter
+d
+3 we have the values h  15000 gauss e  48  1010
+electrostatic units and m  16  1024 gram to find f we write
+        15000 48 1010
+    f   
+        2 31416 1024 3 1010
+    f  237 mc
+the principle of phase stability
+fortunately drs veksler and mcmillan showed that relatively low dee
+voltages can be used to accelerate ions to very high energies this is
+possible if the oscillator frequency is continuously decreased to keep
+it in synchronism with the decreasing rotational frequency of the ions
+this would allow an ion to make many revolutions without becoming out of
+phase this principle of phase stability was experimentally verified
+with the 37inch cyclotron before being incorporated into the design of
+the 184inch machine because it utilizes this principle this machine
+has usually been referred to as a synchrocyclotron or
+frequencymodulated cyclotron however it is sometimes called simply
+a cyclotron
+the 184inch synchrocyclotron was first operated in november 1946 with
+a maximum dee voltage of only 20000 volts it accelerated deuterons to
+190 mev and alpha particles to 380 mev4 in 1949 it was modified to
+permit production of 350mev protons also
+between 1955 and 1957 the synchrocyclotron was rebuilt so that now the
+following energies can be obtained
+    protons  deuterons  alpha particles  helium3 nuclei5
+          
+    730 mev   460 mev       910 mev         1140 mev
+in reaching an energy of 730 mev a proton for example makes 75000
+revolutions in just 6 milliseconds msec it travels a distance of 450
+miles and attains a velocity of 152000 miles per second or 82 of the
+speed of light during this brief journey its mass increases 75 giving
+very convincing evidence for the validity of einsteins theory similar
+data for other ions may be found in the appendix
+footnotes
+4 a deuteron is the nucleus of an atom of heavy hydrogen and contains
+one proton and one neutron it carries a single positive electric
+charge an alpha particle is the nucleus of a helium atom and is made up
+of two protons and two neutrons it carries two positive charges
+5 the machine is equipped for helium3 operation but to date it has
+not been used for that purpose
+design and construction of the 184inch synchrocyclotron
+magnet
+during the rebuilding of the cyclotron the diameter of the magnet pole
+pieces was increased from 184 to 18834 inches also the pole gap at
+the center was reduced from 21 to 14 inches these changes increased the
+weight of steel in the magnet from 3700 to 4000 tons
+the main exciting coils which contain 1300 turns of copperbar
+conductor each were not altered two auxiliary coils containing 425
+turns each were added this brought the total weight of copper from 300
+to 340 tons the coils are layerwound around the pole pieces close to
+the pole gap other data about the coils are given in the appendix
+the effect of these modifications was to increase the field strength at
+the center of the pole gap from 15000 to 23400 gauss this increase
+made it possible to obtain the higherenergy ions
+power is supplied to the coils by two motor generator sets which
+produce the direct current required for a steady magnetic field the
+direct current from the motor generators is regulated so that the
+magneticfield fluctuation is less than one part in 10000 this is
+necessary if one wants an external beam of nearly uniform energy
+in order to prevent the beam from becoming unstable and striking the
+dee the magnetic field must be strongest at the center and decrease
+radially fig 4a with flat pole faces the field does not decrease
+uniformly to give the desired rate of decrease the pole faces are
+shimmed with concentric steel rings of varying thickness as shown in
+fig 4b in a radially decreasing magnetic field the lines of magnetic
+flux bow outward as represented in fig 4b ions moving in a magnetic
+field are deflected at right angles to these flux lines ions above the
+midplane of the cyclotron are directed downward those below the
+midplane are directed upward in this way an ion oscillates about the
+midplane and vertical focusing is achieved
+illustration fig 4
+a plot of magneticfield strength vs radius the field strength
+decreases gradually out to a radius of about 83in after which it
+falls off sharply this point marks the maximum usable radius for
+particle orbits further out they are unstable
+b magnetic flux lines are represented as broken arrows and focusing
+forces as solid arrows an ion above the midplane is directed downward
+while an ion below the midplane is directed upward
+radial focusing is accomplished in a somewhat analogous manner if the
+magnetic field decreases with radius radial restoring forces are
+established an ion at too large a radius is directed inward and an ion
+at too small a radius is directed outward in this fashion the ion
+oscillates about the synchronous orbit thus radial focusing is
+achieved
+vacuum system
+the vacuum tank acceleration chamber is a steel box 20  25 ft and 4 ft
+high it is evacuated to a pressure of 105 millimeter of mercury
+about one 100millionth of atmospheric pressure the pumping equipment
+consists of six oildiffusion pumps and four mechanical vacuum pumps
+the pumping speed of the six 20in oildiffusion pumps is a total of
+20000 literssec
+ion source
+the ion source is a simple arctype hydrogen gas is allowed to leak
+into the ionsource enclosure near a tungsten filament which is heated
+to incandescence electrons emitted by the filament knock off electrons
+from hydrogen atoms leaving free protons the protons then escape into
+the acceleration chamber through a hole in the ionsource housing once
+inside the protons are accelerated by the dee potential
+deuterons or alpha particles are obtained in a similar fashion using
+deuterium or helium gas in place of hydrogen
+radiofrequency system
+the 184inch synchrocyclotron has a single dee instead of the doubledee
+arrangement described above for illustrative purposes the accelerating
+electric field is developed between the dee and a dummy dee which is
+grounded to the vacuum tank using a single dee does not change the
+principle of operation yet it offers the advantage of allowing more
+space for auxiliary equipment inside the vacuum tank also the
+construction is much simpler the dummy dee is not essential for
+operation but it does improve performance
+illustration fig 5 radiofrequency cycle for accelerating protons
+sixtyfour such cycles are repeated each second
+radiofrequency power is supplied to the dee by a vacuumtube
+oscillator the frequency of oscillation must decrease during the
+acceleration cycle as indicated above for protons the frequency at
+the start of acceleration is 36 megacycles mc at the end of
+acceleration the frequency is only 18 mc see fig 5 this change in
+frequency is achieved by varying the electrical capacitance in the tuned
+circuit of the oscillator this is what you do when you dial a
+different station on a radio this tuned circuit which is called the
+cyclotron resonator is shown in fig 6
+illustration fig 6 cyclotron resonator
+because the frequency must change over such a wide range from 36 to 18
+mc the electrical capacitance must be varied by a factor of 20 to 1
+this is done by a variable capacitor of unique design it resembles two
+giant tuning forks as the blades of the tuning forks vibrate the
+capacitance is alternately increased and decreased by the required
+amount
+these two tuning forks must be kept in step with great precision this
+is to prevent the oscillator from exciting lateral rf resonances with a
+cyclotron of this size this is a problem these resonances if excited
+would cause loss of beam the method for keeping the blades moving
+together is as follows the blades are made to vibrate at their resonant
+frequency which is approximately 64 cycles per second one set of
+blades operates at its natural frequency as a tuningfork oscillator
+the second set of blades is driven from an amplified sample of the
+signal from the first its natural period is adjusted automatically to
+equal that of the first the amplitude of each set is regulated to
+within 0003 in the phase angle between the blades is regulated to
+within 1 deg
+ions are accelerated only when the radiofrequency is decreasing fig 5
+the remaining portion of the cycle is dead time thus 64 pulses each
+of about 500 microseconds duration are obtained every second the
+average ion current of a pulsed beam is much less than for a continuous
+beam such as that obtained from a conventional cyclotron see table i
+this is part of the price paid for higher energies
+internal targets and beam extractor
+the simplest target is one placed inside the vacuum tank where the
+circulating beam will strike it the target may be any substance that
+the physicist or chemist wants to irradiate the target material is
+attached to a movable probe if the experimenter wants to use the
+fullenergy beam he places the target at the maximum usable radius of
+the circulating beam 82 inches however if he desires to use ions
+having less than the maximum energy he inserts the target further into
+the cyclotron so that it is intercepted sooner
+table i
+
+   comparison of externalbeam energy and current for a
+     synchrocyclotron and a conventional cyclotron
+
+                  184inch synchrocyclotron
+                  
+                          protons  deuterons  alpha particles
+                              
+beam energy 
+  maximum mev              730       460           910
+beam intensity 
+  peak current mua6    120       120            40
+beam intensity 
+  average current mua   075      075          025
+                      60inch cyclotron
+                      
+beam energy 
+  maximum mev               12        24            48
+beam intensity 
+  peak current mua       100       150           100
+beam intensity 
+  average current mua     70        80            60
+
+    6 mua  microampere
+
+illustration fig 7 plan view of the cyclotron showing the method
+for obtaining an external beam of protons deuterons or alpha
+particles
+some experiments require an external beam of protons deuterons or
+alpha particles a beam of this type can be brought out of the machine
+by means of a lecouteur regenerator fig 7 the construction of the
+regenerator is very simple it is made of a number of steel laminations
+of various sizes what the regenerator does is perturb the magnetic
+field of the cyclotron at one radial position each time the beam passes
+through the regenerator it receives a kick with each kick the beam
+builds up its radial amplitude until finally it enters a magnetic
+channel this channel focuses the beam and steers it outside the main
+magnetic field once outside the beam travels through an evacuated
+tube which is integral with the main vacuum tank by means of a
+steering magnet the beam can be sent into either the physics cave or
+the medical cave these experimental areas are called caves because
+they are rooms inside the massive concrete shielding wall
+other experiments may require an external beam of mesons7 a meson
+beam is obtained in the following way fig 8 a movable target such as
+a block of carbon is placed inside the cyclotron near the end of the
+outwardspiraling proton beam when the proton beam hits this target a
+shower of mesons is produced these mesons are bent in various
+directions by the main magnetic field some of them pass through a thin
+metal window in the vacuumtank wall and are focused by a magnetic lens
+into a beam this meson beam then travels through a hole in the concrete
+shielding wall into the meson cave the maximum intensity of this
+extracted meson beam depends on both the charge and energy desired
+beams of more than 100000 mesons per second have been obtained through
+an aperture 4  4 in in the shielding wall
+cyclotron experiments
+nuclear physics
+about 86 of the operating time of the 184inch synchrocyclotron is
+devoted to experiments in nuclear physics most of the experiments study
+the production and interaction of pi mesons these particles are
+considered to be essential factors in the intense but shortrange forces
+that bind the nucleus together the three types of pi mesons are
+designated according to their electric charge as pi pi0 and
+pi8 these mesons materialize only in highenergy nuclear
+collisions
+illustration fig 8 method for obtaining external meson beam
+of great importance are those experiments that determine the
+probability of producing each of the three types of mesons in a nuclear
+collision this type of experiment is repeated for different beam
+energies and target elements other experiments measure the energy and
+direction of emission of pi mesons from a target
+illustration fig 9 a typical experiment scintillation counters at
+a b c d and e record the passage of charged particles
+a typical pimeson experiment is represented in fig 9 the purpose
+of this experiment was to detect the spin directions of protons as they
+are knocked out of a liquid hydrogen target by a pimeson beam like
+the earth a proton spins on its axis an extracted proton beam from
+the cyclotron enters the physics cave from the left striking a
+polyethylene target and producing pi mesons a beam of these mesons is
+formed by a series of two bending magnets and three focusing magnets
+this beam passes through a carbon absorber to remove unwanted particles
+the meson beam then strikes the liquid hydrogen target a few of the
+incoming mesons scatter knocking protons out of the liquid hydrogen
+scintillation counters at a and b record the passage of a proton thus
+defining its direction the scattered mesons are counted by a
+scintillation counter at c a few of the protons scatter off the carbon
+target and are detected by counters at e and d from the detection of
+such events the spin directions polarization of the recoil protons
+can be analyzed in this way more is learned about the fundamental
+piproton interaction
+further studies of the interactions of pi mesons are made in the meson
+cave other experiments performed there are concerned with mu mesons
+the mu meson muon is a particle created in the decay of a pi meson
+and is the principal constituent of cosmic rays striking the surface of
+the earth the muon is unstable eventually undergoing a radioactive
+decay into an electron although the muon does not experience nuclear
+forces it can interact weakly with nuclei the behavior of the muon is
+well understood but its role as one of the elementary particles is
+unknown that is if the muon did not exist what effect would this have
+on the structure of matter the answer to this question among others
+is being sought by physicists using the 184inch cyclotron
+biophysics
+experiments in biophysics are conducted in the medical cave in these
+the interest lies not in nuclear interactions but in the effect of
+ionizing radiation on living tissue highenergy beams of particles can
+be used for selective destruction of specific areas of the brain this
+permits physiological mapping of the functions of the brain in
+experimental animals it further offers a therapeutic approach to the
+treatment of brain tumors one of the important investigational programs
+is concerned with the relationship of the pituitary gland to the growth
+rate of certain cancers and to some endocrine disorders
+nuclear chemistry
+for techniques of radiochemistry to be employed successfully high
+interaction rates and therefore high beam intensities are needed for
+this reason chemistry targets are usually inserted right into the
+cyclotron so that they can be bombarded directly by the circulating
+beam after the bombardment is completed the target is removed from the
+cyclotron it is then taken to a chemistry laboratory and subjected to
+detailed chemical procedures individual elements are removed and the
+radioactive isotopes of each element are identified by quantitative
+counting techniques in some cases a mass spectrometer is used to
+analyze the products many deductions about the nature of the breakup of
+the target nucleus can be drawn from the pattern of the observed
+radioactive products sometimes the nucleus splits almost in half this
+is called fission more frequently smaller parts of the nucleus are
+split off two general types of reactions known as spallation and
+fragmentation are distinguished one of the goals of this research is
+to learn more about the constitution of the nucleus and of the forces
+which bind the particles in the interior of the nucleus
+footnotes
+7 mesons are elementary particles intermediate in mass between the
+electron and proton
+8 it may be interesting to note that the pi0 meson was discovered
+with this cyclotron in 1950 this was the first particle to be
+discovered with an accelerator all particles that had been previously
+discovered were observed first in cosmic rays or some other form of
+natural radiation
+bibliography
+1 gerald a behman particle accelerators i bibliography ii list
+   of accelerator installations ucrl8050 january 1 1958
+2 samuel glasstone the acceleration of charged particles in
+   sourcebook on atomic energy second edition van nostrand
+   princeton 1958 ch ix
+3 m s livingston highenergy accelerators interscience
+   publishers new york 1954
+4 m stanley livingston and edwin m mcmillan history of the
+   cyclotron physics today 12 1834 october 1959
+5 e m mcmillan particle accelerators in experimental nuclear
+   physics emilio segr editor vol iii wiley new york 1959
+   part xiii
+6 bob h smith et al the electrical aspects of the ucrl 740mev
+   synchrocyclotron ucrl3779 rev october 2 1957
+7 robert l thornton frequencymodulation and radiofrequency system
+   for the modified berkeley cyclotron ucrl3362 april 3 1956
+8 robert r wilson particle accelerators scientific american 198
+   6476 march 1958
+appendix
+summary of specifications
+  present fields of research     of time
+      
+    nuclear physics                 86
+    nuclear chemistry                2
+    biophysics                      12
+  scheduled operation         156 hoursweek
+performance
+internal beams
+                                                      alpha     helium3
+                                protons  deuterons  particles     ions
+                                       
+  maximum energy mev             730       460        910        1140
+  energy spread mev               55
+  beam intensity
+    average current mua       075      075       025
+    peak current mua           120       120         40
+  beam radius maximum in        82        82         82          82
+  time required for
+    acceleration msec              6       45        45
+  number of revolutions
+    during acceleration         75000    60000     60000
+  distance traveled during
+    acceleration miles           450       360        360
+  velocity at maximum energy
+     of speed of light           82        60         60          69
+  mass increase at maximum
+    energy  of rest mass         75        25         25          40
+  range of fullenergy
+    particles in of aluminum     37        12          7
+external beams
+                                  physics cave             meson cave
+                              
+                            protons neutrons pi   pi    pi
+                                  
+  energy mev               730              310     100250   100 300
+  energy spread mev         14                       10 20    10  30
+  beam area cm2            25               40     100100   100 100
+  flux particlescm2sec 21010  5105  5104  1000100  15001000
+acceleration chamber vacuum tank
+  size
+    length ft                                              25
+    width ft                                               20
+    height ft                                               4
+  material mild steel
+  operating pressure mm hg                                 105
+  vacuum pumps six 20in oildiffusion pumps with 8in boosters
+                one beachruss 750cfm one kinney 300cfm two
+                kinney 105cfm
+  pumping speed of oildiffusion pumps literssec      20000
+magnet
+  core diameter in                            184
+  poletip diameter in                     18875
+  pole gap at center in                        14
+  magnetic field strength gauss
+    at center                                 23400
+    at radius of 822 in where n  02      22275
+  weight of steel tons                       4000
+  magnet coils              main coils    auxiliary coils
+                                
+  material                 solid copper    hollow copper
+                          14  4 in  1316  1116 in
+  weight of copper tons         300             40
+  number of turns total       2600            425
+  ampere turns             19  106     11  106
+  current amp                  1600           2800
+  voltage v                     550            560
+  power kw                      900           1600
+  coolant                    oil            water
+radiofrequency system
+  dee system
+    number of dees                                         1
+    size
+      length in                                     126
+      width in                                      180
+      height in                                      48
+    material 164inthick copper stretched over a stainless
+              steel frame
+    dee aperture in                                4316
+  oscillator
+    type selfexcited groundedgrid                      10
+    tube one machlett ml5681
+    dc input operating condition kw                    10
+    dee bias maximum dc v                            2000
+                             protons  deuterons  alpha particles
+                                 
+    rf duty cycle           38        28            28
+    deetoground voltage
+    peak kv                   9         6             6
+  frequencymodulation system
+    type vibratingreed tuningfork capacitor
+    number of units two two blades each
+    blades
+      size
+        width in                                       45
+        length in                                      32
+        thickness tapered from 14 to 006 in
+        weight lb                                      500
+    vibrational frequency cps                           64
+    electrical capacitance mumuf          300 to 6500
+    peaktopeak excursion in                           1
+    minimum separation of blade and stator mils         50
+                            protons   deuterons   alpha particles
+                                  
+    frequency sweep mc     3618    18135        18135
+  ion source conventional openarc type
+beam extractor
+  lecouteurtype regenerator combined with magnetic channel
+building and facilities
+  room dimensions
+    diameter ft          160
+    height ft             90
+  crane
+    type radial
+    capacity tons         30
+    overhead span ft      77
+  concrete shielding 15 ft thick on sides 4 ft on top
+history
+  design started january 1940
+  construction started august 1940
+  first operation
+    for deuterons and alpha particles november 1946
+    for protons december 1948
+  rebuilt 1955195

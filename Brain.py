@@ -22,7 +22,6 @@ def Predict(Text: str, _BagOfWords: BagOfWords) -> str:
     for NGram in NGrams:
         if len(NGram) > 0:
             LastNGrams.append(NGram[-1])
-    print(LastNGrams)
 
     # Step 4 : Get the first dictionary match
     DictionaryMatch = None
