@@ -1,0 +1,646 @@
+biology
+by
+edmund beecher wilson
+professor of zoology
+columbia university
+new york
+the columbia university press
+1908
+  biology
+  a lecture delivered at columbia university
+  in the series on science philosophy and art
+  november 20 1907
+biology
+by
+edmund beecher wilson
+professor of zoology
+columbia university
+new york
+the columbia university press
+1908
+copyright 1908
+by the columbia university press
+set up and published march 1908
+biology
+i must at the outset remark that among the many sciences that are
+occupied with the study of the living world there is no one that may
+properly lay exclusive claim to the name of biology the word does
+not in fact denote any particular science but is a generic term
+applied to a large group of biological sciences all of which alike are
+concerned with the phenomena of life to present in a single address
+even in rudimentary outline the specific results of these sciences is
+obviously an impossible task and one that i have no intention of
+attempting i shall offer no more than a kind of preface or
+introduction to those who will speak after me on the biological
+sciences of physiology botany and zoology and i shall confine it to
+what seem to me the most essential and characteristic of the general
+problems towards which all lines of biological inquiry must sooner or
+later converge
+it is the general aim of the biological sciences to learn something of
+the order of nature in the living world perhaps it is not amiss to
+remark that the biologist may not hope to solve the ultimate problems
+of life any more than the chemist and physicist may hope to penetrate
+the final mysteries of existence in the nonliving world what he can
+do is to observe compare and experiment with phenomena to resolve
+more complex phenomena into simpler components and to this extent as
+he says to explain them but he knows in advance that his
+explanations will never be in the full sense of the word final or
+complete investigation can do no more than push forward the limits of
+knowledge
+the task of the biologist is a double one his more immediate effort is
+to inquire into the nature of the existing organism to ascertain in
+what measure the complex phenomena of life as they now appear are
+capable of resolution into simpler factors or components and to
+determine as far as he can what is the relation of these factors to
+other natural phenomena it is often practically convenient to consider
+the organism as presenting two different aspectsa structural or
+morphological one and a functional or physiologicaland biologists
+often call themselves accordingly morphologists or physiologists
+morphological investigation has in the past largely followed the method
+of observation and comparison physiological investigation that of
+experiment but it is one of the best signs of progress that in recent
+years the fact has come clearly into view that morphology and
+physiology are really inseparable and in consequence the distinctions
+between them in respect both to subject matter and to method have
+largely disappeared in a greater community of aim morphology and
+physiology alike were profoundly transformed by the introduction into
+biological studies of the genetic or historical point of view by
+darwin who did more than any other to establish the fact suspected by
+many earlier naturalists that existing vital phenomena are the outcome
+of a definite process of evolution and it was he who first fully
+brought home to us how defective and onesided is our view of the
+organism so long as we do not consider it as a product of the past it
+is the second and perhaps greater task of the biologist to study the
+organism from the historical point of view considering it as the
+product of a continuous process of evolution that has been in operation
+since life began in its widest scope this genetic inquiry involves
+not only the evolution of higher forms from lower ones but also the
+still larger question of the primordial relation of living things to
+the nonliving world here is involved the possibility so strikingly
+expressed many years ago by tyndall in that eloquent passage in the
+belfast address where he declared himself driven by an intellectual
+necessity to cross the boundary line of the experimental evidence and
+to discern in nonliving matter as he said the promise and potency of
+every form and quality of terrestrial life this intellectual necessity
+was created by a conviction of the continuity and consistency of
+natural phenomena which is almost inseparable from the scientific
+attitude towards nature but tyndalls words stood after all for a
+confession of faith not for a statement of fact and they soared far
+above the terra firma of the actual evidence at the present day we
+too may find ourselves logically driven to the view that living things
+first arose as a product of nonliving matter we must fully recognize
+the extraordinary progress that has been made by the chemist in the
+artificial synthesis of compounds formerly known only as the direct
+products of living protoplasm but it must also be admitted that we are
+still wholly without evidence of the origin of any living thing at any
+period of the earths history save from some other living thing and
+after more than two centuries redis aphorism omne vivum e vivo
+retains today its full force it is my impression therefore that the
+time has not yet come when hypotheses regarding a different origin of
+life can be considered as practically useful
+if i have the temerity to ask your attention to the fundamental
+problem towards which all lines of biological inquiry sooner or later
+lead us it is not with the delusion that i can contribute anything new
+to the prolonged discussions and controversies to which it has given
+rise i desire only to indicate in what way it affects the practical
+efforts of biologists to gain a better understanding of the living
+organism whether regarded as a group of existing phenomena or as a
+product of the evolutionary process and i shall speak of it not in
+any abstract or speculative way but from the standpoint of the
+working naturalist the problem of which i speak is that of organic
+mechanism and its relation to that of organic adaptation how in
+general are the phenomena of life related to those of the nonliving
+world how far can we profitably employ the hypothesis that the living
+body is essentially an automaton or machine a configuration of
+material particles which like an engine or a piece of clockwork
+owes its mode of operation to its physical and chemical construction
+it is not open to doubt that the living body is a machine it is a
+complex chemical engine that applies the energy of the foodstuffs to
+the performance of the work of life but is it something more than a
+machine if we may imagine the physicochemical analysis of the body
+to be carried through to the very end may we expect to find at last
+an unknown something that transcends such analysis and is neither a
+form of physical energy nor anything given in the physical or chemical
+configuration of the body shall we find anything corresponding to the
+usual popular conceptionwhich was also along the view of
+physiologiststhat the body is animated by a specific vital
+principle or vital force a dominating archus that exists only
+in the realm of organic nature if such a principle exists then the
+mechanistic hypothesis fails and the fundamental problem of biology
+becomes a problem sui generis
+in its bearing on mans place in nature this question is one of the
+most momentous with which natural science has to deal and it has
+occupied the attention of thinking men in every age i cannot trace
+its history but it will be worth our while to place side by side the
+words of three of the great leaders of modern scientific and
+philosophic thought the saying has been attributed to descartes
+give me matter and i will construct the worldmeaning by this the
+living world as well as the nonliving but descartes specifically
+excepted the human mind i do not know whether the great french
+philosopher actually used these particular words but they express the
+essence of the mechanistic hypothesis that he adopted kant utterly
+repudiated such a conception in the following well known passage it
+is quite certain that we cannot become adequately acquainted with
+organized creatures and their hidden potentialities by means of the
+merely mechanical principles of nature much less can we explain them
+and this is so certain that we may boldly assert that it is absurd for
+man even to make such an attempt or to hope that a newton may one day
+arise who will make the production of a blade of grass comprehensible
+to us according to natural laws that have not been ordered by design
+such an insight we must absolutely deny to man still in another
+place kant admitted that the facts of comparative anatomy give us a
+ray of hope however faint that something may be accomplished by the
+aid of the principle of the mechanism of nature without which there
+can be no science in general it is interesting to turn from this to
+the bold and aggressive assertion of huxley living matter differs
+from other matter in degree and not in kind the microcosm repeats the
+macrocosm and one chain of causation connects the nebulous origin of
+suns and planetary systems with the protoplasmic foundations of life
+and organization
+do not expect me to decide where such learned doctors disagree but i
+will at this point venture on one comment which may sound the keynote
+of this address perhaps we shall find that in the long run and in the
+large sense kant was right but it is certain that today we know
+very much more about the formation of the living body whether a blade
+of grass or a man than did the naturalists of kants time and for
+better or for worse the human mind seems to be so constituted that it
+will continue its efforts to explain such matters however difficult
+they may seem to be but i return to our more specific inquiry with
+the remark that the history of physiology in the past two hundred
+years has been the history of a progressive restriction of the notion
+of a vital force or vital principle within narrower and narrower
+limits until at present it may seem to many physiologists that no
+room for it remains within the limits of our biological philosophy
+one after another the vital activities have been shown to be in
+greater or less degree explicable or comprehensible considered as
+physicochemical operations of various degrees of complexity every
+physiologist will maintain that we cannot name one of these
+activities not even thought that is not carried on by a physical
+mechanism he will maintain further that in most cases the vital
+actions are not merely accompanied by physicochemical operations but
+actually consist of them and he may go so far as definitely to
+maintain that we have no evidence that life itself can be regarded as
+anything more than their sum total he is able to bring forward cogent
+evidence that all modes of vital activity are carried on by means of
+energy that is set free in protoplasm or its products by means of
+definite chemical processes collectively known as metabolism when the
+matter is reduced to its lowest terms life as thus viewed seems to
+have its root in chemical change and we can understand how an eminent
+german physiologist offers us a definition or characterization of life
+that runs the lifeprocess consists in the metabolism of proteids
+i ask your particular attention to this definition since i now wish to
+contrast with it another and very different one
+i shall introduce it to your attention by asking a very simple
+question we may admit that digestion for example is a purely
+chemical operation and one that may be exactly imitated outside the
+living body in a glass flask my question is how does it come to pass
+that an animal has a stomachand pursuing the inquiry how does it
+happen that the human stomach is practically incapable of digesting
+cellulose while the stomachs of some lower animals such as the goat
+readily digest this substance the earlier naturalists such as
+linnaeus cuvier or agassiz were ready with a reply which seemed so
+simple adequate and final that the plodding modern naturalist cannot
+repress a feeling of envy in their view plants and animals are made
+as they were originally created each according to its kind the
+biologist of today views the matter differently and i shall give his
+answer in the form in which i now and then make it to a student who
+may chance to ask why an insect has six legs and a spider eight or
+why a yellowbird is yellow and a bluebird blue the answer is for
+the same reason that the elephant has a trunk i trust that a certain
+rugged pedagogical virtue in this reply may atone for its lack of
+elegance the elephant has a trunk as the insect has six legs for
+the reason that such is the specific nature of the animal and we may
+assert with a degree of probability that amounts to practical
+certainty that this specific nature is the outcome of a definite
+evolutionary process the nature and causes of which it is our
+tremendous task to determine to such extent as we may be able but
+this does not yet touch the most essential side of the problem what
+is most significant is that the clumsy shortnecked elephant has been
+endowedby nature as we saywith precisely such an organ the
+trunk as he needs to compensate for his lack of flexibility and
+agility in other respects if we are asked why the elephant has a
+trunk we must answer because the animal needs it but does such a
+reply in itself explain the fact evidently not the question which
+science must seek to answer is how came the elephant to have a
+trunk and we do not properly answer it by saying that it has
+developed in the course of evolution it has been well said that even
+the most complete knowledge of the genealogy of plants and animals
+would give us no more than an ancestral portraitgallery we must
+determine the causes and conditions that have cooperated to produce
+this particular result if our answer is to constitute a true
+scientific explanation and evidently he who adopts the machinetheory
+as a general interpretation of vital phenomena must make clear to us
+how the machine was built before we can admit the validity of his
+theory even in a single case our apparently simple question as to
+why the animal has a stomach has thus revealed to us the full
+magnitude of the task with which the mechanist is confronted and it
+has brought us to that part of our problem that is concerned with the
+nature and origin of organic adaptations without tarrying to attempt
+a definition of adaptation i will only emphasize the fact that many of
+the great naturalists from aristotle onward have recognized the
+purposeful or designlike quality of vital phenomena as their most
+essential and fundamental characteristic herbert spencer defined life
+as the continuous adjustment of internal relations to external
+relations it is one of the best that has been given though i am not
+sure that professor brooks has not improved upon it when he says that
+life is response to the order of nature this seems a long way from
+the definition of verworn heretofore cited as the metabolism of
+proteids to this brooks opposes the telling epigram the essence of
+life is not protoplasm but purpose
+without attempting adequately to illustrate the nature of organic
+adaptations i will direct your attention to what seems to me one of
+their most striking features regarded from the mechanistic position
+this is the fact that adaptations so often run counter to direct or
+obvious mechanical conditions nature is crammed with devices to
+protect and maintain the organism against the stress of the
+environment some of these are given in the obvious structure of the
+organism such as the tendrils by means of which the climbing plant
+sustains itself against the action of gravity or the winds the
+protective shell of the snail the protective colors and shapes of
+animals and the like any structural feature that is useful because
+of its construction is a structural adaptation and when such
+adaptations are given the mechanist has for the most part a relatively
+easy task in his interpretation he has a far more difficult knot to
+disentangle in the case of the socalled functional adaptations where
+the organism modifies its activities and often also its structure in
+response to changed conditions the nature of these phenomena may be
+illustrated by a few examples so chosen as to form a progressive
+series if a spot on the skin be rubbed for some time the first result
+is a direct and obviously mechanical one the skin is worn away but
+if the rubbing be continued long enough and is not too severe an
+indirect effect is produced that is precisely the opposite of the
+initial direct one the skin is replaced becomes thicker than before
+and a callus is produced that protects the spot from further injury
+the healing of a wound involves a similar action again remove one
+kidney or one lung and the remaining one will in time enlarge to
+assume as far as it is able the functions of both if the leg of a
+salamander or a lobster be amputated the wound not only heals but a
+new leg is regenerated in place of that which has been lost if a
+flatworm be cut in two the front piece grows out a new tail the hind
+piece a new head and two perfect worms result finally it has been
+found in certain cases including animals as highly organized as
+salamanders that if the egg be separated into two parts at an early
+period of development each part develops into a perfect embryo animal
+of half the usual size and a pair of twins results in each of these
+cases the astonishing fact is that a mechanical injury sets up in the
+organism a complicated adaptive response in the form of operations
+which in the end counteract the initial mechanical effect it is no
+doubt true that somewhat similar selfadjustments or responses may be
+said to take place in certain nonliving mechanical systems such as
+the spinning top or the gyroscope but those that occur in the living
+body are of such general occurrence of such complexity and variety
+and of so designlike a quality that they may fairly be regarded as
+among the most characteristic of the vital activities it is precisely
+this characteristic of many vital phenomena that renders their
+accurate analysis so difficult and complex a task and it is largely
+for this reason that the biological sciences as a whole still stand
+far behind the physical sciences both in precision and in
+completeness of analysis
+what is the actual working attitude of naturalists towards the general
+problem that i have endeavored to outline it would be a piece of
+presumption for me to speak for the body of working biologists and i
+will therefore speak for only one of them it is my own conviction
+that whatever be the difficulties that the mechanistic hypothesis has
+to face it has established itself as the most useful working
+hypothesis that we can at present employ i do not mean to assert that
+it is adequate or even true i believe only that we should make use
+of it as a working program because the history of biological research
+proves it to have been a more effective and fruitful means of
+advancing knowledge than the vitalistic hypothesis we should
+therefore continue to employ it for this purpose until it is clearly
+shown to be untenable whether we must in the end adopt it will
+depend on whether it proves the simplest hypothesis in the large
+sense the one most in harmony with our knowledge of nature in
+general if such is the outcome we shall be bound by a deeply lying
+instinct that is almost a law of our intellectual being to accept it
+as we have accepted the copernican system rather than the ptolemaic i
+believe i am right in saying that the attitude i have indicated as a
+more or less personal one is also that of the body of working
+biologists though there are some conspicuous exceptions
+in endeavoring to illustrate how this question actually affects
+research i will offer two illustrative cases one of which may
+indicate the fruitfulness of the mechanistic conception in the
+analysis of complex and apparently mysterious phenomena the other the
+nature of the difficulties that have in recent years led to attempts
+to reestablish the vitalistic view the first example is given by the
+socalled law or principle of mendel in heredity the principle
+revealed by mendels wonderful discovery is not shown in all the
+phenomena of heredity and is probably of more or less limited
+application it possesses however a profound significance because it
+gives almost a demonstration that a definite and perhaps a relatively
+simple mechanism must lie behind the phenomena of heredity in
+general hereditary characters that conform to this law undergo
+combinations disassociations and recombinations which in certain way
+suggest those that take place in chemical reactions and like the
+latter they conform to definite quantitative rules that are capable of
+arithmetical formulation this analogy must not be pressed too far
+for chemical reactions are individually definite and fixed while
+those of the hereditary characters involve a fortuitous element of
+such a nature that the numerical result is not fixed or constant in
+the individual case but follows the law of probability in the
+aggregate of individuals nevertheless it is possible and has
+already become the custom to designate the hereditary organization by
+symbols or formulas that resemble those of the chemist in that they
+imply the quantitative results of heredity that follow the union of
+compounds of known composition quantitative predictionnot precisely
+accurate but in accordance with the law of probabilityhas thus
+become possible to the biological experimenter on heredity i will
+give one example of such a prediction made by professor cunot in
+experimenting on the heredity of color in mice see the following
+table the experiment extended through three generations of the four
+grandparents three were pure white albinos identical in outward
+appearance but of different hereditary capacity while the fourth was
+a pure black mouse the first pair of grandparents consisted of an
+albino of gray ancestry ag and one of black ancestry ab the second
+pair consisted of an albino of yellow ancestry ay and a black mouse
+cb the result of the first union ag x ab is to produce again pure
+white mice of the composition agab the second union ay x cb is to
+produce mice that appear pure yellow and have the formula aycb
+what now will be the result of uniting the two forms thus
+producedie agab  aycb cunots prediction was that they should
+yield eight different kinds of mice of which four should be white
+two yellow one black and one gray the actual aggregate result of
+such unions repeatedly performed compared with the theoretic
+expectation is shown in the foregoing table as will be seen the
+correspondence though close is not absolutely exact yet is near
+enough to prove the validity of the principle on which the prediction
+was based and we may be certain that had a much larger number of
+these mice been reared the correspondence would have been still
+closer i have purposely selected a somewhat complicated example and
+time will not admit of a full explanation of the manner in which this
+particular result was reached i will however attempt to give an
+indication of the general mendelian principle by means of which
+predictions of this kind are made this principle appears in its
+simplest form in the behavior of two contrasting characters of the
+same general typefor instance two colors such as gray and white in
+mice if two animals which show respectively two such characters are
+bred together only one of the characters known as the dominant
+appears in the offspring while the other known as the recessive
+disappears from view in the next generation obtained by breeding
+these hybrids together both characters appear separately and in a
+definite ratio there being in the long run three individuals that
+show the dominant character to one that shows the recessive thus in
+the case of gray and white mice the first cross is always gray while
+the next generation includes three grays to one white this is the
+fundamental mendelian ratio for a single pair of characters and from
+it may readily be deduced the more complicated combinations that
+appear when two or more pairs of characters are considered together
+such combinations appear in definite series the nature of which may
+be worked out by a simple method of binomial expansion by the use of
+this principle astonishingly accurate numerical predictions may be
+made even of rather complex combinations and furthermore new
+combinations may be and have been artificially produced the number
+character and hereditary capacity of which are known in advance the
+fundamental ratio for a single pair of characters is explained by a
+very simple assumption when a dominant and a recessive character are
+associated in a hybrid the two must undergo in some sense a
+disjunction or separation in the formation of the germcells of the
+hybrid this takes place in a quite definite way exactly half the
+germcells in each sex receiving the potentiality of the dominant
+character the other half the potentiality of the recessive this is
+roughly expressed by saying that the germcells are no longer hybrid
+like the body in which they arise but bear one character or the
+other and although in a technical sense this is probably not
+precisely accurate it will sufficiently answer our purpose if now
+it be assumed that fertilization takes place fortuitouslythat is
+that union is equally probable between germcells bearing the same
+character and those bearing opposite charactersthe observed
+numerical ratio in the following generation follows according to the
+law of probability thus is explained both the fortuitous element that
+differentiates these cases from exact chemical combinations and the
+definite numerical relations that appear in the aggregate of
+individuals
+  grandparents ag white ab white  ay white cb black
+                                               
+                           
+                                           
+  parents     agab white              aycb yellow
+                                           
+                     
+                                              observed    calculated
+                             agay
+                             abay     white    81         76
+                             agab
+   offspring  abab
+                             
+                             agcy    yellow    34         38
+                             abcy
+                             
+                             abcb      black    20         19
+                             agcb       gray    16         19
+                                                         
+                                                  151        152
+now the point that i desire to emphasize is that one or two very
+simple mechanistic assumptions give a luminously clear explanation of
+the behavior of the hereditary characters according to mendels law
+and at one stroke bring order out of the chaos in which facts of this
+kind at first sight seem to be not less significant is the fact that
+direct microscopical investigation is actually revealing in the
+germcells a physical mechanism that seems adequate to explain the
+disjunction of characters on which mendels law depends and this
+mechanism probably gives us also at least a key to the long standing
+riddle of the determination and heredity of sex these phenomena are
+therefore becoming intelligible from the mechanistic point of view
+from any other they appear as an insoluble enigma when such progress
+as this is being made have we not a right to believe that we are
+employing a useful working hypothesis
+but let us now turn to a second example that will illustrate a class
+of phenomena which have thus far almost wholly eluded all attempts to
+explain them the one that i select is at present one of the most
+enigmatical cases known namely the regeneration of the lens of the
+eye in the tadpoles of salamanders if the lens be removed from the
+eye of a young tadpole the animal proceeds to manufacture a new one
+to take its place and the eye becomes as perfect as before that such
+a process should take place at all is remarkable enough but from a
+technical point of view this is not the extraordinary feature of the
+case what fills the embryologist with astonishment is the fact that
+the new lens is not formed in the same way or from the same material
+as the old one in the normal development of the tadpole from the egg
+as in all other vertebrate animals the lens is formed from the outer
+skin or ectoderm of the head in the replacement of the lens after
+removal it arises from the cells of the iris which form the edge of
+the optic cup and this originates in the embryo not from the outer
+skin but as an outgrowth from the brain as far as we can see neither
+the animal itself nor any of its ancestors can have had experience of
+such a process how then can such a power have been acquired and
+how does it inhere in the structure of the organism if the process of
+repair be due to some kind of intelligent action as some naturalists
+have supposed why should not the higher animals and man possess a
+similar useful capacity to these questions biology can at present
+give no reply in the face of such a case the mechanist must simply
+confess himself for the time being brought to a standstill and there
+are some able naturalists who have in recent years argued that by the
+very nature of the case such phenomena are incapable of a rational
+explanation along the lines of a physicochemical or mechanistic
+analysis these writers have urged accordingly that we must
+postulate in the living organism some form of controlling or
+regulating agency which does not lie in its physicochemical
+configuration and is not a form of physical energysomething that may
+be akin to a form of intelligence conscious or unconscious and to
+which the physical energies are in some fashion subject to this
+supposed factor in the vital processes have been applied such terms as
+the entelechy from aristotle or the psychoid and some writers
+have even employed the word soul in this sensethough this
+technical and limited use of the word should not be confounded with
+the more usual and general one with which we are familiar views of
+this kind represent a return in some measure to earlier vitalistic
+conceptions but differ from the latter in that they are an outcome of
+definite and exact experimental work they are therefore often spoken
+of collectively as neovitalism
+it is not my purpose to enter upon a detailed critique of this
+doctrine to me it seems not to be science but either a kind of
+metaphysics or an act of faith i must own to complete inability to
+see how our scientific understanding of the matter is in any way
+advanced by applying such names as entelechy or psychoid to the
+unknown factors of the vital activities they are words that have been
+written into certain spaces that are otherwise blank in our record of
+knowledge and as far as i can see no more than this it is my
+impression that we shall do better as investigators of natural
+phenomena frankly to admit that they stand for matters that we do not
+yet understand and continue our efforts to make them known and have
+we any other way of doing this than by observation experiment
+comparison and the resolution of more complex phenomena into simpler
+components i say again with all possible emphasis that the
+mechanistic hypothesis or machinetheory of living beings is not fully
+established that it may not be adequate or even true yet i can
+only believe that until every other possibility has realty been
+exhausted scientific biologists should hold fast to the working
+program that has created the sciences of biology the vitalistic
+hypothesis may be held and is held as a matter of faith but we
+cannot call it science without misuse of the word
+when we turn finally to the genetic or historical part of our task
+we find ourselves confronted with precisely the same general problem
+as in case of the existing organism biological investigators have
+long since ceased to regard the fact of organic evolution as open to
+serious discussion the transmutation of species is not an hypothesis
+or assumption it is a fact accurately observed in our laboratories
+and the theory of evolution is only questioned in the same very
+general way in which all the great generalizations of science are held
+open to modification as knowledge advances but it is a very large
+question what has caused and determined evolution here too the
+fundamental problem is how far the process may be mechanically
+explicable or comprehensible how far it is susceptible of formulation
+in physicochemical or mechanistic terms the most essential part of
+this problem relates to the origin of organic adaptations the
+production of the fit with kant cuvier and linnaeus believed this
+problem scientifically insoluble lamarck attempted to find a solution
+in his theory of the inheritance of the effects of use disuse and
+other acquired characters but his theory was insecurely based and
+also begged the question since the power of adaptation through which
+use disuse and the like produce their effects is precisely that which
+must be explained darwin believed he had found a partial solution in
+his theory of natural selection and he was hailed by haeckel as the
+biological newton who had set at naught the obiter dictum of kant
+but darwin himself did not consider natural selection as an adequate
+explanation since he called to its aid the subsidiary hypotheses of
+sexual selection and the inheritance of acquired characters if i
+correctly judge the first of these hypotheses must be considered as
+of limited application if it is not seriously discredited while the
+second can at best receive the scotch verdict not proven in any
+case natural selection must fight its own battles
+latter day biologists have come to see clearly that the inadequacy of
+natural selection lies in its failure to explain the origin of the
+fit and darwin himself recognized clearly enough that it is not an
+originative or creative principle it is only a condition of survival
+and hence a condition of progress but whether we conceive with darwin
+that selection has acted mainly upon slight individual variations or
+with devries that it has operated with larger and more stable
+mutations any adequate general theory of evolution must explain the
+origin of the fit now under the theory of natural selection pure
+and simple adaptation or fitness has a merely casual or accidental
+character in itself the fit has no more significance than the unfit
+it is only one out of many possibilities of change and evolution by
+natural selection resolves itself into a series of lucky accidents
+for agassiz or cuvier the fit is that which was designed to fit for
+natural selection pure and simple the fit is that which happens to
+fit i for one am unable to find a logical flaw in this conception
+of the fit and perhaps we may be forced to accept it as sufficient
+but i believe that naturalists do not yet rest content with it darwin
+himself was repeatedly brought to a standstill not merely by specific
+difficulties in the application of his theory but also by a certain
+instinctive or temperamental dissatisfaction with such a general
+conclusion as the one i have indicated and many able naturalists feel
+the same difficulty today whether this be justified or not it is
+undoubtedly the fact that few working naturalists feel convinced that
+the problem of organic evolution has been fully solved one of the
+questions with which research is seriously engaged is whether
+variations or mutations are indeterminate as darwin on the whole
+believed or whether they may be in greater or less degree
+determinate proceeding along definite lines as if impelled by a vis
+a tergo the theory of orthogenesis proposed by naegeli and eimer
+makes the latter assumption and it has found a considerable number of
+adherents among recent biological investigators including some of our
+own colleagues who have made important contributions to the
+investigation of this fundamental question it is too soon to venture
+a prediction as to the ultimate result that evolution has been
+orthogenetic in the case of certain groups seems to be well
+established but many difficulties stand in the way of its acceptance
+as a general principle of explanation the uncertainty that still
+hangs over this question and that of the heredity of acquired
+characters bears witness to the unsettled state of opinion regarding
+the whole problem and to the inadequacy of the attempts thus far made
+to find its consistent and adequate solution
+here too accordingly we find ourselves confronted with wide gaps in
+our knowledge which open the way to vitalistic or transcendental
+theories of development i think we should resist the temptation to
+seek such refuge it is more than probable that there are factors of
+evolution still unknown we can but seek for them nothing is more
+certain than that life and the evolution of life are natural
+phenomena we must approach them and as far as i can see must attempt
+to analyze them by the same methods that are employed in the study of
+other natural phenomena the student of nature can do no more than
+strive towards the truth when he does not find the whole truth there
+is but one gospel for his salvationstill to strive towards the
+truth he knows that each forward step on the highway of discovery
+will bring to view a new horizon of regions still unknown it will be
+an ill day for science when it can find no more fields to conquer and
+so if you ask whether i look to a day when we shall know the whole
+truth in regard to organic mechanism and organic evolution i answer
+no but let us go forward
+columbia university press
+   a series of twentytwo lectures descriptive in untechnical
+   language of the achievements in science philosophy and art and
+   indicating the present status of these subjects as concepts of
+   human knowledge are being delivered at columbia university
+   during the academic year 19071908 by various professors chosen
+   to represent the several departments of instruction
+   mathematics by cassius jackson keyser adrain professor of
+   mathematics
+   physics by ernest fox nichols professor of experimental
+   physics
+   chemistry by charles f chandler professor of chemistry
+   astronomy by harold jacoby rutherfurd professor of astronomy
+   geology by james furman kemp professor of geology
+   biology by edmund b wilson professor of zoology
+   physiology by frederic s lee professor of physiology
+   botany by herbert maule richards professor of botany
+   zoology by henry e crampton professor of zoology
+   anthropology by franz boas professor of anthropology
+   archaeology by james rignall wheeler professor of greek
+   archaeology and art
+   history by james harvey robinson professor of history
+   economics by henry rogers seager professor of political
+   economy
+   politics by charles a beard adjunct professor of politics
+   jurisprudence by munroe smith professor of roman law and
+   comparative jurisprudence
+   sociology by franklin henry giddings professor of sociology
+   philosophy by nicholas murray butler president of the
+   university
+   psychology by robert s woodworth adjunct professor of
+   psychology
+   metaphysics by frederick je woodbridge johnsonian professor
+   of philosophy
+   ethics by john dewey professor of philosophy
+   philology by avw jackson professor of indoiranian
+   languages
+   literature by harry thurston peck anthon professor of the
+   latin language and literature
+   these lectures are published by the columbia university press
+   separately in pamphlet form at the uniform price of twentyfive
+   cents by mail twentyeight cents orders will be taken for the
+   separate pamphlets or for the whole series
+  address
+  the columbia university press
+  columbia university new york
+                                  
